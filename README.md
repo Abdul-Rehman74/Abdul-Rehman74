@@ -18,6 +18,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abdul-Rehman74&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+# Web Projects:
+[![MATHmania](https://s3.ap-south-1.amazonaws.com/assets.mathmania.com/Logos/logo-images/1728896188373.png)](https://mathmania.pk/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![AlShamsCorporation](https://www.alshamscorporation.com/assets/logo-Bjunu67P.svg)](https://www.alshamscorporation.com/)
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdul-Rehman74&icon=0&color=0)](https://visitcount.itsvg.in)
 
